@@ -38,7 +38,7 @@ Here’s an updated version of your **Beta Features** section with a new section
 ## 🔗 **Live Demo**
 
 Experience the new tooltip features in action:
-👉 [View D-Link Live Demo](https://dlink.netlify.app)
+👉 [View D-Link Live Demo](https://dlink-tooltip.netlify.app)
 
 ---
 
